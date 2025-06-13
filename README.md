@@ -42,6 +42,16 @@ To build a machine learning pipeline that:
 ├── Telco-Customer-Churn.csv         # Dataset file
 ├── churn_prediction.py              # Python script for entire project
 └── README.md                        # Project documentation
+
+
+
+
+
+
+
+
+
+
 ## 🔍 Steps Performed
 
 ### 1. Load Dataset
